@@ -1,2 +1,2 @@
 # Meme-Book
-A Django website to upload and share memes
+A Django website to upload and share memes anonymously
